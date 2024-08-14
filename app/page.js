@@ -2,13 +2,10 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>
-   <section className=' bg-orange-500 text-red-700'>
- <h1>hdasd</h1>
- <h1>ily</h1>
-   </section>
-      
-    </div>
+  
+  <section className='w-full flex-center flex-col'>
+<h1 className='head_text text-center'>Discover and share</h1>
+  </section>
   )
 }
 
